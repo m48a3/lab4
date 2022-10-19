@@ -1,0 +1,5 @@
+Cat,meat,15
+Pinguin,grass,15
+Horse,grass,50
+Tiger,meat,60
+Lion,meat,65
